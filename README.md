@@ -13,6 +13,12 @@ https://drive.google.com/drive/folders/1h8Ul8gzVbucfx5_-FK0DAdCmwLC1sqFw
 
 ![image](https://user-images.githubusercontent.com/82735611/189572783-2503512c-6c14-4a9b-b58a-cabbe23f9ab7.png)
 
+If you want to make changes under your own branch from Colab (to save a version): 
+
+![image](https://user-images.githubusercontent.com/82735611/189577789-9c2fce93-f604-4233-9ed5-62f25e6eecf5.png)
+
+![image](https://user-images.githubusercontent.com/82735611/189577845-ec9d7bdb-d341-4648-b135-3817577d2b60.png)
+
 
 
 
