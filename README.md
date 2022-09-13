@@ -1,5 +1,5 @@
 
-Hi everyone, 
+Hi BINF7000 Group 9, 
 
 If you have an IDE that supports Github you can clone this repository, pull the code, commit changes and push to either the main branch or your own branch. 
 ![image](https://user-images.githubusercontent.com/82735611/189577548-c7343a48-7379-4da8-91c0-6eb6771b37ae.png)
